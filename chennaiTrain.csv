@@ -1,0 +1,101 @@
+station_name,network,latitude,longitude
+Chennai Beach,Suburban/MRTS,13.0810,80.2874
+Chennai Fort,Suburban/MRTS,13.0881,80.2850
+Chennai Park,Suburban,13.0821,80.2776
+Chennai Egmore,Suburban,13.0776,80.2572
+Chetpet,Suburban,13.0639,80.2466
+Nungambakkam,Suburban,13.0586,80.2281
+Kodambakkam,Suburban,13.0520,80.2307
+Mambalam,Suburban,13.0382,80.2137
+Saidapet,Suburban,13.0219,80.2251
+Guindy,Suburban/Metro,13.0093,80.2125
+St. Thomas Mount,Suburban/Metro,12.9946,80.1988
+Pazhavanthangal,Suburban,12.9900513484504,80.1860186932525
+Meenambakkam,Suburban,12.9842,80.1706
+Tirusulam,Suburban/Metro,12.9867,80.1686
+Pallavaram,Suburban,12.9676358462787,80.1516076644175
+Chromepet,Suburban,12.9557,80.1290
+Tambaram Sanatorium,Suburban,12.9235,80.1276
+Tambaram,Suburban,12.9230,80.1275
+Perungalathur,Suburban,12.9007,80.0986
+Vandalur,Suburban,12.9051,80.0918
+Urapakkam,Suburban,12.8846,80.0880
+Guduvancheri,Suburban,12.8476,80.0327
+Potheri,Suburban,12.8150,80.0369
+Kattankulathur,Suburban,12.7853,80.0456
+Maraimalai Nagar,Suburban,12.7196,80.0451
+Paranur,Suburban,12.6936,80.0489
+Chengalpattu Junction,Suburban,12.6892,79.9989
+Basin Bridge Junction,Suburban,13.0998,80.2929
+Perambur,Suburban,13.1165,80.2106
+Perambur Carriage Works,Suburban,13.1079369775494,80.2385866220875
+Perambur Loco Works,Suburban,13.1084962825559,80.2257088988896
+Villivakkam,Suburban,13.1025,80.2120
+Korattur,Suburban,13.1136734772717,80.1854967932525
+Pattaravakkam,Suburban,13.1148019231541,80.1663461644175
+Ambattur,Suburban,13.1089,80.1729
+Thirumullaivoyal,Suburban,13.1154390775056,80.1358251085924
+Annanur,Suburban,13.1167059188322,80.1274369932525
+Avadi,Suburban,13.1289,80.1258
+Pattabiram,Suburban,13.1188562696632,80.0660061220875
+Thiruninravur,Suburban,13.1046,80.0105
+Veppampattu,Suburban,13.1265,79.9283
+Putlur,Suburban,13.1235143726772,79.9375818644175
+Tiruvallur,Suburban,13.0959,79.9945
+Arakkonam Junction,Suburban,13.0061,79.9039
+Royapuram,Suburban,13.1069,80.2926
+Washermanpet,Suburban/Metro,13.1054,80.2927
+Washermanpet-Wimco Nagar (Wimco Nagar end),Metro/Suburban,13.1839215129204,80.3085229963442
+Royapuram (duplicate possible),Suburban,13.1069,80.2926
+Washermanpet (duplicate),Suburban,13.1054,80.2927
+Washermanpet - additional stops,Suburban,13.1352331181927,80.2930044801285
+Tondiarpet,Suburban,13.1260,80.2962
+V.O.C. Nagar,Suburban,13.1410194157432,80.2877982860663
+Tiruvottiyur,Suburban,13.1849,80.2955
+Wimco Nagar,Suburban,13.2036,80.3001
+Kathivakkam,Suburban,13.2050094225211,80.3170173414076
+Ennore,Suburban,13.1833,80.2966
+Athipattu,Suburban,13.2688795605261,80.2772854662624
+Minjur,Suburban,13.3080,80.3230
+Ponneri,Suburban,13.2637,80.2590
+Kavaraipettai,Suburban,13.3191,80.1984
+Gummidipoondi,Suburban,13.4250,80.2881
+Chennai Beach,MRTS/Suburban,13.0810,80.2874
+Chennai Fort,MRTS/Suburban,13.0881,80.2850
+Chennai Park Town,MRTS,13.0828,80.2789
+Chintadripet,MRTS,13.0712,80.2694
+Chepauk (Thiruvallikeni),MRTS,13.0826,80.2876
+Light House,MRTS,13.0440,80.2822
+Thirumayilai,MRTS,13.0369,80.2688
+Mandaveli,MRTS,13.0257,80.2666
+Greenways Road,MRTS,13.0197,80.2504
+Kotturpuram,MRTS,13.0251,80.2516
+Kasturba Nagar,MRTS,13.0269,80.2539
+Indira Nagar,MRTS,13.0278,80.2586
+Thiruvanmiyur,MRTS,12.9838,80.2406
+Taramani,MRTS,12.9861,80.2340
+Perungudi,MRTS,12.9668,80.2356
+Velachery,MRTS,12.9695,80.2200
+Washermanpet Metro,Metro Blue,13.1054,80.2927
+Thiruvottriyur Metro (if applicable),Metro Blue,13.1730098288073,80.3054635950631
+Tondiarpet Metro,Metro Blue,13.1240515180688,80.2882150932525
+Perambur Metro (if applicable),Metro Blue,13.094819774634,80.2582849430913
+Madhavaram Milk Colony,Metro Blue,13.1511,80.2191
+Korukkupet Metro,Metro Blue,13.1100,80.2850
+Royapuram Metro,Metro Blue,13.1069,80.2926
+Lighthouse Metro (Chennai Metro),Metro Blue,13.0440,80.2822
+High Court Metro (near Fort),Metro Blue,13.0830,80.2850
+Chennai Central Metro,Metro Blue/Green,13.0825,80.2707
+Government Estate (Chintadripet area),Metro Blue,13.0712,80.2694
+Koyambedu Metro,Metro Blue,13.0696,80.2110
+Vadapalani Metro,Metro Blue,13.0496,80.2007
+Ashok Nagar Metro,Metro Blue,13.0409,80.2222
+Nandanam Metro,Metro Blue,13.0224,80.2358
+Thirumangalam Metro,Metro Blue,13.0855,80.2009
+Kasturba Nagar Metro,Metro Green,13.0269,80.2539
+Guindy Metro,Metro Green,13.0093,80.2125
+Vadapalani (Metro),Metro Blue,13.0496,80.2007
+Alandur (Interchange),Metro Green/Blue,13.0178,80.2017
+Ezhil Nagar / Egmore (Metro),Metro Blue/Green,13.0766,80.2659
+Airport Metro (Meenambakkam),Metro Blue/Green,12.9945,80.1706
+St. Thomas Mount Metro,Metro Green,12.9946,80.1988
